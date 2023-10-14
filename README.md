@@ -8,7 +8,7 @@ A branch "main" contém a versão WebGL do projeto, que está disponível public
 
 ## Branch PC-Build
 
-A branch "pc-build" contém as compilações para as plataformas Linux e Windows. Essas compilações são destinadas para uso em ambientes de desktop. Você pode baixar e executar o projeto em sistemas Linux e Windows a partir desta branch.
+A branch "[pc-build](https://github.com/JonathanYuri/level-generator/tree/pc-build)" contém as compilações para as plataformas Linux e Windows. Essas compilações são destinadas para uso em ambientes de desktop. Você pode baixar e executar o projeto em sistemas Linux e Windows a partir desta branch.
 
 ### Instruções de Uso
 
