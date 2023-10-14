@@ -14,4 +14,4 @@ A branch "pc-build" contém as compilações para as plataformas Linux e Windows
 
 - **Main Branch (WebGL):** Acesse o projeto no seu navegador por meio do [link do projeto WebGL](https://jonathanyuri.github.io/level-generator/).
 
-- **PC-Build Branch (Linux e Windows):** Baixe a versão adequada para o seu sistema operacional na branch "pc-build" e siga as instruções de instalação contidas no arquivo README específico dessa branch.
+- **PC-Build Branch (Linux e Windows):** Baixe a versão adequada para o seu sistema operacional na branch "[pc-build](https://github.com/JonathanYuri/level-generator/tree/pc-build)" e siga as instruções de instalação contidas no arquivo README específico dessa branch.
