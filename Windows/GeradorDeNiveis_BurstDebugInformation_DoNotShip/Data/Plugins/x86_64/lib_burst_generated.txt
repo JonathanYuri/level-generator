@@ -130,6 +130,7 @@ Library: lib_burst_generated
 --root-assembly=J:\J.Yuri\FACUL\TCC\LevelGenerator\Temp\StagingArea\Data\Managed\Unity.Mathematics.dll
 --root-assembly=J:\J.Yuri\FACUL\TCC\LevelGenerator\Temp\StagingArea\Data\Managed\Unity.VisualScripting.State.dll
 --root-assembly=J:\J.Yuri\FACUL\TCC\LevelGenerator\Temp\StagingArea\Data\Managed\Unity.VisualScripting.Core.dll
+--root-assembly=J:\J.Yuri\FACUL\TCC\LevelGenerator\Temp\StagingArea\Data\Managed\AstarPathfindingProject.dll
 --root-assembly=J:\J.Yuri\FACUL\TCC\LevelGenerator\Temp\StagingArea\Data\Managed\Unity.Burst.dll
 --root-assembly=J:\J.Yuri\FACUL\TCC\LevelGenerator\Temp\StagingArea\Data\Managed\Unity.2D.Animation.Runtime.dll
 --root-assembly=J:\J.Yuri\FACUL\TCC\LevelGenerator\Temp\StagingArea\Data\Managed\Unity.TextMeshPro.dll
@@ -279,6 +280,7 @@ Library: lib_burst_generated
 --root-assembly=J:\J.Yuri\FACUL\TCC\LevelGenerator\Temp\StagingArea\Data\Managed\Unity.Mathematics.dll
 --root-assembly=J:\J.Yuri\FACUL\TCC\LevelGenerator\Temp\StagingArea\Data\Managed\Unity.VisualScripting.State.dll
 --root-assembly=J:\J.Yuri\FACUL\TCC\LevelGenerator\Temp\StagingArea\Data\Managed\Unity.VisualScripting.Core.dll
+--root-assembly=J:\J.Yuri\FACUL\TCC\LevelGenerator\Temp\StagingArea\Data\Managed\AstarPathfindingProject.dll
 --root-assembly=J:\J.Yuri\FACUL\TCC\LevelGenerator\Temp\StagingArea\Data\Managed\Unity.Burst.dll
 --root-assembly=J:\J.Yuri\FACUL\TCC\LevelGenerator\Temp\StagingArea\Data\Managed\Unity.2D.Animation.Runtime.dll
 --root-assembly=J:\J.Yuri\FACUL\TCC\LevelGenerator\Temp\StagingArea\Data\Managed\Unity.TextMeshPro.dll
